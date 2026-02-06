@@ -43,13 +43,23 @@ An **Additive Scoring System (0-100)** that combines multiple behavioral and con
 ## 🚀 Quick Start
 
 ### Prerequisites
-- Docker & Docker Compose (or Podman on Fedora)
+- [Docker](https://docs.docker.com/get-docker/) & Docker Compose (or Podman)
+- Git
 
-### Run the Application
+### Installation & Running
 
+1. **Clone the repository:**
+```bash
+git clone https://github.com/WencesCapolo/support-ticket-prioritization.git
+cd support-ticket-prioritization
+```
+
+2. **Run with Docker Compose:**
 ```bash
 docker-compose up --build
 ```
+
+That's it! The system will initialize the database, calculate historical scores, and launch the dashboard.
 
 ### Access Points
 
