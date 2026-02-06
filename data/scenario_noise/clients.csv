@@ -1,0 +1,151 @@
+client_id,company_name,mrr,account_tier,signup_date,country
+client_001,"Pearson, Kent and Anderson",44.5,starter,2025-09-02,Canada
+client_002,Howard-Clark,88.98,starter,2025-11-02,Argentina
+client_003,"Carpenter, Gray and Moore",80.05,starter,2025-10-29,Brazil
+client_004,"Bryan, Wells and Pearson",56.82,starter,2025-09-30,Colombia
+client_005,"Jordan, Jones and Curry",51.54,starter,2025-10-03,Colombia
+client_006,Stewart-Burch,25.54,starter,2025-07-15,UK
+client_007,Edwards Ltd,19.14,starter,2025-12-29,UK
+client_008,Dennis-Mccann,42.85,starter,2025-02-18,US
+client_009,Jones-Robles,50.65,starter,2025-04-28,Mexico
+client_010,"Lindsey, Jacobs and Woods",94.56,starter,2025-11-16,Mexico
+client_011,Owens PLC,37.14,starter,2025-05-03,Mexico
+client_012,Wallace Ltd,18.73,starter,2025-04-04,Argentina
+client_013,White-Little,32.67,starter,2025-09-16,US
+client_014,Sanchez-Kelley,93.04,starter,2025-07-29,Argentina
+client_015,Gomez PLC,32.46,starter,2025-06-29,Brazil
+client_016,"Rodriguez, Nguyen and Bond",26.87,starter,2025-07-06,Colombia
+client_017,Waters-Smith,15.33,starter,2025-11-01,UK
+client_018,Fields LLC,66.34,starter,2025-05-26,UK
+client_019,Nichols-Velasquez,68.59,starter,2025-05-22,Colombia
+client_020,Anderson-Ramirez,63.06,starter,2025-12-21,US
+client_021,Cobb PLC,70.22,starter,2025-03-20,Colombia
+client_022,"Zamora, Reeves and Harris",42.56,starter,2025-09-30,Brazil
+client_023,Alexander LLC,53.83,starter,2025-08-01,Argentina
+client_024,"Hubbard, Hunt and Luna",91.26,starter,2025-05-09,UK
+client_025,Robbins-Robinson,62.24,starter,2025-05-18,UK
+client_026,"Gregory, Wright and Koch",33.66,starter,2025-12-06,US
+client_027,Schwartz Group,38.27,starter,2025-08-05,Brazil
+client_028,Rosario-Vargas,36.25,starter,2025-07-05,Argentina
+client_029,Stewart Ltd,90.42,starter,2025-11-22,Mexico
+client_030,"Salas, Perez and Lowe",47.79,starter,2025-12-25,Canada
+client_031,King-Guzman,70.21,starter,2025-10-13,US
+client_032,Dominguez LLC,21.99,starter,2025-04-12,UK
+client_033,"Jennings, Martin and Mata",33.44,starter,2025-05-27,Canada
+client_034,Fischer-Thompson,49.18,starter,2025-05-11,Argentina
+client_035,"Colon, Cooper and Johnson",23.7,starter,2025-10-25,US
+client_036,"Thomas, Johnson and King",69.76,starter,2025-05-09,Mexico
+client_037,"Buchanan, Gibson and Erickson",39.55,starter,2025-12-18,Brazil
+client_038,"Rodriguez, Buckley and Stephens",83.91,starter,2025-05-04,Canada
+client_039,"Murray, Solis and Lambert",33.6,starter,2025-07-07,US
+client_040,Baker-Price,65.49,starter,2025-08-19,Canada
+client_041,Hernandez PLC,25.36,starter,2025-06-11,Colombia
+client_042,"Bartlett, Daniel and Becker",74.24,starter,2025-09-22,Colombia
+client_043,Wilson PLC,12.27,starter,2025-05-17,UK
+client_044,Rogers PLC,30.17,starter,2025-08-23,UK
+client_045,"Stephenson, Hood and Weiss",73.93,starter,2025-05-03,Brazil
+client_046,Scott LLC,63.46,starter,2025-12-31,Mexico
+client_047,Wong-Ellis,25.27,starter,2025-07-20,UK
+client_048,Davis-Bradley,77.35,starter,2025-03-08,Canada
+client_049,Johnston Ltd,99.03,starter,2025-05-14,Mexico
+client_050,Allen LLC,93.13,starter,2025-05-06,Mexico
+client_051,Miller-Thornton,87.38,starter,2025-06-14,Argentina
+client_052,"Johnson, Hall and Vargas",63.34,starter,2025-07-27,Mexico
+client_053,Long LLC,65.65,starter,2025-02-27,Colombia
+client_054,Murphy-Morales,59.65,starter,2025-10-09,Canada
+client_055,Gould-Coffey,59.77,starter,2025-12-03,Mexico
+client_056,Murphy PLC,76.49,starter,2025-06-23,UK
+client_057,"Morales, Webster and Schmidt",31.41,starter,2025-07-20,Mexico
+client_058,"Mcbride, Gutierrez and Mcfarland",55.64,starter,2025-07-16,Mexico
+client_059,"Archer, Morris and Moore",94.45,starter,2026-01-05,Argentina
+client_060,Hall-Taylor,17.58,starter,2025-05-13,Mexico
+client_061,Vasquez-Odom,70.06,starter,2025-03-21,Argentina
+client_062,Turner PLC,62.52,starter,2025-10-08,Mexico
+client_063,"Rios, Ramos and Jones",64.86,starter,2025-03-19,Colombia
+client_064,Best Group,34.26,starter,2025-03-20,Argentina
+client_065,Brooks Ltd,59.1,starter,2025-02-10,Colombia
+client_066,Ray-Odonnell,35.53,starter,2025-07-30,Brazil
+client_067,Holmes-Butler,10.9,starter,2025-08-02,Argentina
+client_068,Parrish Group,10.46,starter,2025-08-05,US
+client_069,Walker Ltd,88.38,starter,2025-06-24,Canada
+client_070,Watson LLC,10.35,starter,2025-07-25,Brazil
+client_071,Rodriguez-Flores,79.84,starter,2025-03-28,UK
+client_072,Becker Inc,99.11,starter,2025-05-17,UK
+client_073,"Bolton, Boyd and Haynes",87.21,starter,2025-05-31,Mexico
+client_074,"Rogers, Perez and English",67.75,starter,2025-05-17,Canada
+client_075,Williams Inc,73.06,starter,2025-04-20,Colombia
+client_076,Stewart PLC,64.52,starter,2025-08-09,Brazil
+client_077,Robinson Group,79.1,starter,2025-07-08,Mexico
+client_078,"Marshall, Stout and Little",31.4,starter,2025-07-07,Colombia
+client_079,Velez-Allen,89.68,starter,2025-08-09,Canada
+client_080,Chavez-Bentley,80.38,starter,2025-12-19,Mexico
+client_081,"Walton, Wright and Smith",32.63,starter,2025-05-28,Mexico
+client_082,"Diaz, Jefferson and Smith",96.92,starter,2025-08-30,UK
+client_083,"Perez, Franklin and Irwin",53.32,starter,2025-08-18,Canada
+client_084,Gonzalez-Hodges,51.93,starter,2025-11-08,US
+client_085,"Scott, Ford and Fuller",32.25,starter,2025-09-09,UK
+client_086,Sanchez Ltd,76.68,starter,2025-06-21,Brazil
+client_087,"Rivera, Anderson and Lewis",40.25,starter,2025-07-10,Canada
+client_088,Taylor Ltd,19.66,starter,2025-10-15,UK
+client_089,Richardson and Sons,78.33,starter,2026-01-05,Colombia
+client_090,"Gregory, Fernandez and Garcia",82.71,starter,2025-04-08,US
+client_091,Mccormick Ltd,18.36,starter,2025-08-24,Canada
+client_092,Neal PLC,59.27,starter,2025-08-05,Colombia
+client_093,Lee-Frank,34.9,starter,2025-10-31,Brazil
+client_094,"May, Evans and Long",43.3,starter,2025-05-28,Brazil
+client_095,"Matthews, Jones and Thompson",79.32,starter,2025-03-13,Brazil
+client_096,"Ramos, Cruz and Lyons",23.53,starter,2025-09-18,Brazil
+client_097,Smith Group,20.58,starter,2025-12-29,Argentina
+client_098,English-Gomez,38.93,starter,2025-10-29,Colombia
+client_099,"Sanchez, Nelson and Wong",41.2,starter,2025-10-02,Canada
+client_100,Davis-Adams,70.04,starter,2025-08-14,US
+client_101,Porter Group,88.78,starter,2025-05-25,UK
+client_102,Glenn-Camacho,19.98,starter,2025-03-22,Brazil
+client_103,Young-Bowman,44.79,starter,2025-11-20,Colombia
+client_104,Khan-Miller,82.38,starter,2025-09-08,US
+client_105,Morgan Inc,17.38,starter,2025-12-11,Brazil
+client_106,"Moses, Perkins and Rowland",47.69,starter,2025-08-13,Mexico
+client_107,Jackson-Taylor,46.6,starter,2026-01-03,Argentina
+client_108,Jimenez-Bradley,63.43,starter,2025-04-22,Brazil
+client_109,"Sanders, Garrett and Ellis",81.45,starter,2025-03-03,UK
+client_110,Hendricks-Frazier,45.7,starter,2025-06-16,UK
+client_111,Ellison Group,55.44,starter,2025-05-12,Brazil
+client_112,"Holmes, Green and Rivera",74.08,starter,2025-06-26,Argentina
+client_113,"Walker, Sanders and Bell",95.05,starter,2025-11-16,Brazil
+client_114,Walsh and Sons,18.74,starter,2025-11-21,UK
+client_115,Martinez Ltd,38.74,starter,2025-07-09,Canada
+client_116,Bullock-Thornton,32.02,starter,2025-09-06,US
+client_117,"Daniels, Hunt and Weeks",50.5,starter,2025-06-07,Brazil
+client_118,Berger-Miller,40.54,starter,2025-03-07,Colombia
+client_119,"Hess, Copeland and Wright",46.93,starter,2025-09-27,Canada
+client_120,Jarvis Group,89.1,starter,2025-07-16,Colombia
+client_121,"Brown, Smith and Padilla",45.33,starter,2025-06-25,Brazil
+client_122,"Jackson, Howard and Fields",35.62,starter,2025-11-14,Canada
+client_123,Grant-Bennett,81.55,starter,2026-01-02,Canada
+client_124,Graham-Evans,66.23,starter,2025-11-06,US
+client_125,"Bennett, Long and Maddox",59.86,starter,2025-09-24,US
+client_126,White PLC,27.25,starter,2025-05-11,Mexico
+client_127,Dunn-Clayton,65.74,starter,2025-05-29,Brazil
+client_128,"Thomas, Christensen and Cummings",64.24,starter,2025-04-16,Mexico
+client_129,Callahan-Chang,45.33,starter,2025-07-23,US
+client_130,Mcmillan Inc,54.57,starter,2025-06-02,Mexico
+client_131,Garza-Cunningham,92.99,starter,2025-08-21,Colombia
+client_132,Harris-Krueger,40.57,starter,2025-02-26,Canada
+client_133,Martinez-Armstrong,20.17,starter,2025-10-02,Colombia
+client_134,Spencer Inc,87.67,starter,2025-06-29,Brazil
+client_135,Davis-Brown,40.04,starter,2025-11-05,Mexico
+client_136,Hicks LLC,36.04,starter,2025-10-20,Brazil
+client_137,King-Jimenez,99.0,starter,2025-09-13,Canada
+client_138,Barr Inc,37.66,starter,2025-09-10,Colombia
+client_139,Orr and Sons,88.65,starter,2025-07-09,Colombia
+client_140,Jennings-Bond,25.35,starter,2025-04-13,Canada
+client_141,"Faulkner, Horton and Barrett",98.4,starter,2025-12-18,Mexico
+client_142,"Hardy, Morales and Allen",36.21,starter,2025-04-01,Mexico
+client_143,Hoffman Group,98.74,starter,2025-11-29,UK
+client_144,"White, Walters and Stevens",12.58,starter,2025-03-26,Canada
+client_145,Clark-Morris,86.43,starter,2025-03-08,Colombia
+client_146,"Trujillo, Osborn and Trujillo",76.18,starter,2025-09-05,Mexico
+client_147,"Stewart, Martinez and Butler",18.21,starter,2025-07-26,Mexico
+client_148,Byrd-Williams,97.86,starter,2025-02-19,Canada
+client_149,Adams PLC,98.38,starter,2025-03-19,Canada
+client_150,Pugh LLC,83.81,starter,2025-09-19,Colombia

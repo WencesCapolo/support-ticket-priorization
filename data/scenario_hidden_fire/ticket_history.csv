@@ -1,0 +1,12 @@
+ticket_id,client_id,created_at,subject,status,resolved_at,category,assigned_to
+2f339afe,client_001,2025-10-19 17:54:52,Historical issue - payment,resolved,2025-10-21 17:54:52,payment,agent_05
+49dd5ae3,client_001,2026-01-02 17:54:52,Historical issue - payment,resolved,2026-01-06 17:54:52,payment,agent_02
+89dfa2f2,client_001,2025-09-13 17:54:52,Historical issue - technical,resolved,2025-09-14 17:54:52,technical,agent_02
+ac2ab64c,client_002,2025-11-02 17:54:52,Historical issue - onboarding,resolved,2025-11-03 17:54:52,onboarding,agent_04
+59565d6d,client_002,2025-12-22 17:54:52,Historical issue - onboarding,resolved,2025-12-26 17:54:52,onboarding,agent_02
+bee1f53e,client_003,2025-12-29 17:54:52,Historical issue - technical,resolved,2025-12-30 17:54:52,technical,agent_02
+1a3dff49,client_003,2025-10-07 17:54:52,Historical issue - payment,resolved,2025-10-10 17:54:52,payment,agent_02
+b12e2a82,client_004,2025-12-23 17:54:52,Historical issue - payment,resolved,2025-12-25 17:54:52,payment,agent_02
+dddbedbd,client_004,2025-11-02 17:54:52,Historical issue - payment,resolved,2025-11-04 17:54:52,payment,agent_05
+67273da7,client_004,2025-10-12 17:54:52,Historical issue - onboarding,resolved,2025-10-16 17:54:52,onboarding,agent_04
+7b5b765a,client_005,2025-09-01 17:54:52,Historical issue - technical,resolved,2025-09-02 17:54:52,technical,agent_03

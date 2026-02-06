@@ -1,0 +1,151 @@
+ticket_id,client_id,created_at,subject,status,resolved_at,category,assigned_to
+ee9637f5,client_001,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_02
+5f36db9f,client_002,2026-02-06 15:54:52,WORST font ever!,open,,feature_request,agent_02
+9ebf1090,client_003,2026-02-06 15:54:52,TERRIBLE UI update!,open,,general,agent_03
+930c17ff,client_004,2026-02-06 15:54:52,UGLY button colors!,open,,feature_request,agent_04
+6866d2d9,client_005,2026-02-06 15:54:52,AWFUL new design!,open,,feature_request,agent_03
+d8432e70,client_006,2026-02-06 15:54:52,DISGUSTING layout!,open,,feature_request,agent_03
+b9a5bc76,client_007,2026-02-06 15:54:52,HORRIBLE theme change!,open,,general,agent_01
+219240a5,client_008,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_05
+c47ae36c,client_009,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,feature_request,agent_05
+b1970683,client_010,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,general,agent_01
+a2b62e6b,client_011,2026-02-06 15:54:52,GROSS menu design!,open,,general,agent_04
+3bb74258,client_012,2026-02-06 15:54:52,UGLY gradient!,open,,feature_request,agent_04
+21dc3a2d,client_013,2026-02-06 15:54:52,TERRIBLE button shape!,open,,general,agent_05
+5d17df11,client_014,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_04
+57c28ebd,client_015,2026-02-06 15:54:52,HIDEOUS palette!,open,,general,agent_05
+7993a2b8,client_016,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_04
+cbb2a1a6,client_017,2026-02-06 15:54:52,WORST font ever!,open,,general,agent_02
+79298a1e,client_018,2026-02-06 15:54:52,TERRIBLE UI update!,open,,feature_request,agent_05
+c4c8360e,client_019,2026-02-06 15:54:52,UGLY button colors!,open,,general,agent_01
+0e96fadc,client_020,2026-02-06 15:54:52,AWFUL new design!,open,,general,agent_05
+af1d3d74,client_021,2026-02-06 15:54:52,DISGUSTING layout!,open,,general,agent_03
+27a1ac6c,client_022,2026-02-06 15:54:52,HORRIBLE theme change!,open,,general,agent_05
+0bc6cd69,client_023,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_02
+be8a39ac,client_024,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,general,agent_01
+76ccf5f0,client_025,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,general,agent_03
+bafcfdbe,client_026,2026-02-06 15:54:52,GROSS menu design!,open,,feature_request,agent_01
+1fa2b740,client_027,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_05
+0da0715f,client_028,2026-02-06 15:54:52,TERRIBLE button shape!,open,,feature_request,agent_05
+cbdcf3c6,client_029,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_04
+5e0f9a79,client_030,2026-02-06 15:54:52,HIDEOUS palette!,open,,general,agent_01
+4a40a690,client_031,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_05
+8a956075,client_032,2026-02-06 15:54:52,WORST font ever!,open,,feature_request,agent_02
+c6c1c273,client_033,2026-02-06 15:54:52,TERRIBLE UI update!,open,,general,agent_02
+79742c94,client_034,2026-02-06 15:54:52,UGLY button colors!,open,,general,agent_01
+926ec8c7,client_035,2026-02-06 15:54:52,AWFUL new design!,open,,feature_request,agent_04
+01f58e37,client_036,2026-02-06 15:54:52,DISGUSTING layout!,open,,feature_request,agent_02
+0b0553a3,client_037,2026-02-06 15:54:52,HORRIBLE theme change!,open,,feature_request,agent_02
+967c4bdf,client_038,2026-02-06 15:54:52,PATHETIC icon design!,open,,feature_request,agent_01
+f1b88eb3,client_039,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,feature_request,agent_01
+610f749c,client_040,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,feature_request,agent_03
+38de6381,client_041,2026-02-06 15:54:52,GROSS menu design!,open,,general,agent_01
+d3b1a255,client_042,2026-02-06 15:54:52,UGLY gradient!,open,,feature_request,agent_01
+ed79e406,client_043,2026-02-06 15:54:52,TERRIBLE button shape!,open,,feature_request,agent_02
+2b30697b,client_044,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_04
+78f14980,client_045,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_04
+4f3f8978,client_046,2026-02-06 15:54:52,I HATE this color!,open,,general,agent_03
+6ae47ee0,client_047,2026-02-06 15:54:52,WORST font ever!,open,,general,agent_03
+6c6ef47d,client_048,2026-02-06 15:54:52,TERRIBLE UI update!,open,,general,agent_01
+5e3ec9f9,client_049,2026-02-06 15:54:52,UGLY button colors!,open,,feature_request,agent_01
+7724b280,client_050,2026-02-06 15:54:52,AWFUL new design!,open,,general,agent_04
+9a8490e5,client_051,2026-02-06 15:54:52,DISGUSTING layout!,open,,general,agent_01
+2886ae6e,client_052,2026-02-06 15:54:52,HORRIBLE theme change!,open,,feature_request,agent_01
+83de513a,client_053,2026-02-06 15:54:52,PATHETIC icon design!,open,,feature_request,agent_05
+dfd07ed1,client_054,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,feature_request,agent_05
+770316d6,client_055,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,general,agent_04
+be6bbdff,client_056,2026-02-06 15:54:52,GROSS menu design!,open,,general,agent_01
+c8875d7f,client_057,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_01
+d7c8bad6,client_058,2026-02-06 15:54:52,TERRIBLE button shape!,open,,general,agent_01
+0d7d0820,client_059,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,feature_request,agent_01
+3cbd1f48,client_060,2026-02-06 15:54:52,HIDEOUS palette!,open,,general,agent_01
+d47fd756,client_061,2026-02-06 15:54:52,I HATE this color!,open,,general,agent_01
+85a62787,client_062,2026-02-06 15:54:52,WORST font ever!,open,,general,agent_01
+6af69cd6,client_063,2026-02-06 15:54:52,TERRIBLE UI update!,open,,general,agent_01
+3ffe285e,client_064,2026-02-06 15:54:52,UGLY button colors!,open,,feature_request,agent_05
+7c8869a9,client_065,2026-02-06 15:54:52,AWFUL new design!,open,,general,agent_05
+5b050cbc,client_066,2026-02-06 15:54:52,DISGUSTING layout!,open,,general,agent_05
+1d3adfeb,client_067,2026-02-06 15:54:52,HORRIBLE theme change!,open,,general,agent_02
+ff98ba08,client_068,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_02
+c13500d4,client_069,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,feature_request,agent_02
+b1785c83,client_070,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,general,agent_05
+004544a3,client_071,2026-02-06 15:54:52,GROSS menu design!,open,,feature_request,agent_02
+3e60bf55,client_072,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_04
+8b9927e4,client_073,2026-02-06 15:54:52,TERRIBLE button shape!,open,,feature_request,agent_04
+c1ddd6f8,client_074,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,feature_request,agent_04
+adde8235,client_075,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_04
+74abe104,client_076,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_05
+7b7475d0,client_077,2026-02-06 15:54:52,WORST font ever!,open,,feature_request,agent_02
+dedc4414,client_078,2026-02-06 15:54:52,TERRIBLE UI update!,open,,general,agent_05
+a8aa00ca,client_079,2026-02-06 15:54:52,UGLY button colors!,open,,feature_request,agent_05
+73123a6b,client_080,2026-02-06 15:54:52,AWFUL new design!,open,,feature_request,agent_03
+472e151f,client_081,2026-02-06 15:54:52,DISGUSTING layout!,open,,general,agent_01
+1d3ddc18,client_082,2026-02-06 15:54:52,HORRIBLE theme change!,open,,general,agent_05
+e2594e0d,client_083,2026-02-06 15:54:52,PATHETIC icon design!,open,,feature_request,agent_02
+d8c25817,client_084,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,feature_request,agent_03
+51da8273,client_085,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,general,agent_02
+4cce3692,client_086,2026-02-06 15:54:52,GROSS menu design!,open,,general,agent_02
+e964ce75,client_087,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_02
+125fed01,client_088,2026-02-06 15:54:52,TERRIBLE button shape!,open,,general,agent_04
+ba919bc8,client_089,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_05
+a65741ed,client_090,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_02
+2989aace,client_091,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_05
+9264df29,client_092,2026-02-06 15:54:52,WORST font ever!,open,,feature_request,agent_02
+896ae895,client_093,2026-02-06 15:54:52,TERRIBLE UI update!,open,,general,agent_04
+0e481319,client_094,2026-02-06 15:54:52,UGLY button colors!,open,,general,agent_03
+78e3c3f0,client_095,2026-02-06 15:54:52,AWFUL new design!,open,,general,agent_02
+321086d7,client_096,2026-02-06 15:54:52,DISGUSTING layout!,open,,general,agent_03
+b8383338,client_097,2026-02-06 15:54:52,HORRIBLE theme change!,open,,feature_request,agent_05
+b5664d39,client_098,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_04
+4c5651fc,client_099,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,general,agent_01
+27b29299,client_100,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,feature_request,agent_02
+5f4f0ec2,client_101,2026-02-06 15:54:52,GROSS menu design!,open,,general,agent_01
+5f7b7f7e,client_102,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_05
+abc116a5,client_103,2026-02-06 15:54:52,TERRIBLE button shape!,open,,general,agent_01
+6e6521b6,client_104,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,feature_request,agent_05
+e9ede071,client_105,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_04
+e8483540,client_106,2026-02-06 15:54:52,I HATE this color!,open,,general,agent_01
+6ebe6c30,client_107,2026-02-06 15:54:52,WORST font ever!,open,,general,agent_02
+144504aa,client_108,2026-02-06 15:54:52,TERRIBLE UI update!,open,,feature_request,agent_05
+8df92f3d,client_109,2026-02-06 15:54:52,UGLY button colors!,open,,feature_request,agent_05
+fb15bc65,client_110,2026-02-06 15:54:52,AWFUL new design!,open,,general,agent_01
+85e4a734,client_111,2026-02-06 15:54:52,DISGUSTING layout!,open,,feature_request,agent_04
+0ab80fa5,client_112,2026-02-06 15:54:52,HORRIBLE theme change!,open,,general,agent_02
+e8f64d99,client_113,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_04
+65efe609,client_114,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,general,agent_03
+8d7b8353,client_115,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,feature_request,agent_01
+2c664c7d,client_116,2026-02-06 15:54:52,GROSS menu design!,open,,feature_request,agent_05
+eb26ae21,client_117,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_05
+4f135a78,client_118,2026-02-06 15:54:52,TERRIBLE button shape!,open,,feature_request,agent_05
+4c18e701,client_119,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_01
+dadba54d,client_120,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_02
+8812944f,client_121,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_01
+9479ea50,client_122,2026-02-06 15:54:52,WORST font ever!,open,,feature_request,agent_05
+775e1092,client_123,2026-02-06 15:54:52,TERRIBLE UI update!,open,,feature_request,agent_05
+bbb9d53e,client_124,2026-02-06 15:54:52,UGLY button colors!,open,,feature_request,agent_02
+fee45593,client_125,2026-02-06 15:54:52,AWFUL new design!,open,,feature_request,agent_01
+6a4b33e5,client_126,2026-02-06 15:54:52,DISGUSTING layout!,open,,feature_request,agent_01
+c69f5845,client_127,2026-02-06 15:54:52,HORRIBLE theme change!,open,,feature_request,agent_02
+6fd4c9b3,client_128,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_02
+321e38ef,client_129,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,general,agent_04
+d55fe116,client_130,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,feature_request,agent_01
+7a8445df,client_131,2026-02-06 15:54:52,GROSS menu design!,open,,feature_request,agent_02
+17dc4c9a,client_132,2026-02-06 15:54:52,UGLY gradient!,open,,general,agent_04
+f8f4d896,client_133,2026-02-06 15:54:52,TERRIBLE button shape!,open,,feature_request,agent_04
+421ec850,client_134,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_04
+7518d6cf,client_135,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_05
+d3a09f65,client_136,2026-02-06 15:54:52,I HATE this color!,open,,feature_request,agent_03
+d9d54557,client_137,2026-02-06 15:54:52,WORST font ever!,open,,feature_request,agent_04
+19dd5593,client_138,2026-02-06 15:54:52,TERRIBLE UI update!,open,,feature_request,agent_01
+3014d936,client_139,2026-02-06 15:54:52,UGLY button colors!,open,,general,agent_05
+df338f89,client_140,2026-02-06 15:54:52,AWFUL new design!,open,,general,agent_03
+cb838908,client_141,2026-02-06 15:54:52,DISGUSTING layout!,open,,feature_request,agent_03
+e2b1d6e0,client_142,2026-02-06 15:54:52,HORRIBLE theme change!,open,,general,agent_01
+e609159d,client_143,2026-02-06 15:54:52,PATHETIC icon design!,open,,general,agent_02
+d1706148,client_144,2026-02-06 15:54:52,OFFENSIVE color scheme!,open,,general,agent_05
+f837c94c,client_145,2026-02-06 15:54:52,ABOMINATION of a theme!,open,,general,agent_03
+baa8197a,client_146,2026-02-06 15:54:52,GROSS menu design!,open,,feature_request,agent_05
+769e7ed8,client_147,2026-02-06 15:54:52,UGLY gradient!,open,,feature_request,agent_01
+c5b29edd,client_148,2026-02-06 15:54:52,TERRIBLE button shape!,open,,feature_request,agent_03
+e31611db,client_149,2026-02-06 15:54:52,ATROCIOUS spacing!,open,,general,agent_01
+f4be0a09,client_150,2026-02-06 15:54:52,HIDEOUS palette!,open,,feature_request,agent_02

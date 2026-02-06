@@ -1,0 +1,51 @@
+client_id,company_name,mrr,account_tier,signup_date,country
+client_001,"Rodriguez, Figueroa and Sanchez",61.25,starter,2023-10-09,US
+client_002,Doyle Ltd,383.3,starter,2024-07-12,UK
+client_003,"Mcclain, Miller and Henderson",148.39,starter,2024-06-01,UK
+client_004,Davis and Sons,850.66,growth,2024-03-05,UK
+client_005,"Guzman, Hoffman and Baldwin",503.25,growth,2025-04-05,UK
+client_006,"Gardner, Robinson and Lawrence",146.89,starter,2025-02-20,US
+client_007,Blake and Sons,431.37,starter,2024-09-10,US
+client_008,"Henderson, Ramirez and Lewis",106.17,starter,2024-01-23,US
+client_009,Garcia-James,448.45,starter,2024-01-06,Canada
+client_010,Abbott-Munoz,152.55,starter,2023-10-24,US
+client_011,Blair PLC,175.09,starter,2024-10-12,US
+client_012,Dudley Group,170.14,starter,2024-11-30,Canada
+client_013,Arnold Ltd,378.11,starter,2023-06-17,US
+client_014,"Mcclure, Ward and Lee",3752.65,enterprise,2023-08-13,Mexico
+client_015,Williams and Sons,614.52,growth,2023-02-02,US
+client_016,Galloway-Wyatt,474.31,starter,2025-01-05,Canada
+client_017,James Group,461.55,starter,2024-04-14,US
+client_018,"Flowers, Martin and Kelly",769.49,growth,2025-02-03,Colombia
+client_019,"Adams, Zuniga and Wong",148.69,starter,2023-05-22,US
+client_020,"Reid, Ferguson and Sanchez",99.34,starter,2024-10-04,Canada
+client_021,Gray-Mayo,223.15,starter,2024-09-02,US
+client_022,"Watts, Robinson and Nguyen",474.09,starter,2024-11-27,Canada
+client_023,Perez Inc,170.07,starter,2024-10-18,US
+client_024,Morales-Jones,51.46,starter,2025-01-09,Brazil
+client_025,"Walter, Edwards and Rios",753.84,growth,2023-04-19,Mexico
+client_026,Wilkerson-Day,139.51,starter,2024-01-18,Brazil
+client_027,Baker and Sons,4673.97,enterprise,2024-09-05,US
+client_028,"Hoffman, Baker and Richards",4514.89,enterprise,2025-05-01,US
+client_029,"Ross, Robinson and Bright",973.47,growth,2023-03-29,Mexico
+client_030,"Snyder, Campos and Callahan",3130.82,enterprise,2023-05-09,UK
+client_031,Burton Ltd,169.28,starter,2024-09-13,Colombia
+client_032,Carlson-Cruz,844.93,growth,2024-12-31,Brazil
+client_033,"Ferrell, Rice and Maddox",247.15,starter,2024-06-13,US
+client_034,Frazier Inc,59.47,starter,2024-07-21,US
+client_035,"Dyer, Potter and Mack",334.0,starter,2023-08-23,US
+client_036,Rodriguez-Graham,281.37,starter,2023-10-13,US
+client_037,Smith-Bowen,470.98,starter,2024-08-07,US
+client_038,"Baker, Mason and White",233.18,starter,2023-04-07,UK
+client_039,Harrell LLC,260.16,starter,2025-01-16,Canada
+client_040,"Romero, Gonzalez and Brooks",77.28,starter,2025-01-15,Colombia
+client_041,Ryan PLC,135.59,starter,2024-04-04,US
+client_042,George Group,443.52,starter,2023-03-19,Colombia
+client_043,Rodriguez LLC,72.76,starter,2024-07-07,Colombia
+client_044,Allen-Allen,583.16,growth,2024-05-12,Colombia
+client_045,"Arroyo, Miller and Tucker",1658.55,enterprise,2023-01-03,Colombia
+client_046,Spence PLC,642.62,growth,2024-12-14,UK
+client_047,Anderson Group,577.4,growth,2023-10-31,UK
+client_048,"Martin, Rose and Obrien",386.59,starter,2023-02-28,UK
+client_049,Hickman Ltd,3124.5,enterprise,2023-02-28,Colombia
+client_050,"Harris, Collins and Carney",80.58,starter,2025-06-01,US

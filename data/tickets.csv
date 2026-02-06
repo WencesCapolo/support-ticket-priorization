@@ -1,0 +1,201 @@
+ticket_id,client_id,created_at,status,resolved_at,category,subject,assigned_to
+37bfeff0,client_028,2025-11-16 12:23:00,open,,payment,Payout delayed - 21 days,
+ca8d908d,client_024,2025-12-04 14:48:00,open,,onboarding,Questions about team management setup,agent_01
+606ffa0d,client_026,2025-12-11 11:48:00,resolved,2025-12-12 15:22:51,technical,Upload feature broken,agent_01
+48223854,client_003,2025-12-06 14:09:00,resolved,2025-12-09 19:37:34,technical,Dashboard showing incorrect data,
+ceecaad0,client_021,2025-11-08 18:21:00,resolved,2025-11-11 13:08:24,payment,Expected payment hasn't arrived,
+994fff6c,client_020,2025-11-12 21:07:00,open,,technical,Mobile app crashing on API access,
+c1bb49ca,client_047,2025-12-16 15:16:00,resolved,2025-12-21 11:42:37,benefits,Benefits activation issue,agent_02
+01e6fd4c,client_047,2025-12-07 20:46:00,pending,,payment,Checking on delayed payout,agent_02
+33edd329,client_003,2025-11-26 10:26:00,open,,payment,Payment flagged for review - need help,agent_05
+55f3d033,client_050,2025-10-08 22:08:00,pending,,onboarding,New user - need walkthrough,agent_04
+cde20210,client_034,2025-11-28 17:21:00,resolved,2025-12-01 16:20:51,technical,Urgent: Production system down,agent_03
+38baf587,client_040,2025-11-08 07:19:00,open,,payment,Payment flagged for review - need help,agent_04
+f8299fb8,client_021,2025-11-05 09:07:00,pending,,technical,System error when trying to add team members,
+89b8860e,client_026,2025-10-19 09:02:00,resolved,2025-10-21 04:05:50,benefits,Issue accessing benefits portal,
+e633940f,client_042,2025-10-26 17:17:00,pending,,payment,Payment flagged for review - need help,agent_01
+c0a5b250,client_040,2025-12-07 07:40:00,open,,payment,Payment still pending: $3500,agent_04
+34cc824b,client_007,2025-12-10 05:26:00,open,,onboarding,Account setup guidance,agent_02
+39ff16a5,client_049,2025-12-22 01:58:00,open,,general,General support needed,
+aeecfdc4,client_035,2025-10-05 05:26:00,resolved,2025-10-09 16:42:56,compliance,Tax documentation request,
+ef1f817b,client_026,2025-11-07 01:00:00,open,,compliance,Tax form submission issue,agent_03
+633066f6,client_019,2025-12-07 15:56:00,resolved,2025-12-12 09:17:52,technical,Cannot sync API access,agent_01
+a77a3f99,client_022,2025-11-02 22:11:00,pending,,payment,Payment processing issue - Order #48669,agent_02
+7b62e00a,client_012,2025-11-21 13:32:00,resolved,2025-11-23 12:56:57,onboarding,Questions about getting started,agent_02
+331fd8e2,client_031,2025-11-03 12:15:00,open,,technical,Technical problem with mobile app,agent_05
+8371a850,client_001,2025-10-31 01:42:00,open,,payment,Wire transfer not received,agent_05
+5b214ad3,client_046,2025-12-21 09:23:00,resolved,2025-12-24 15:45:46,compliance,Compliance verification questions,agent_04
+5c565a48,client_048,2025-11-30 17:51:00,resolved,2025-12-04 05:34:19,technical,API integration issue,agent_05
+aacc1efd,client_006,2025-12-12 03:03:00,open,,technical,System error when trying to upload documents,
+a167cfa1,client_010,2025-11-26 03:43:00,resolved,2025-11-27 13:54:00,payment,Payment still pending: $5000,
+5b995d3b,client_030,2025-12-12 01:35:00,pending,,payment,Bank transfer still showing pending,agent_01
+99b677a3,client_026,2025-10-28 18:04:00,open,,payment,Payment processing issue - Order #18357,
+98abcaf5,client_004,2025-11-30 01:18:00,open,,general,Platform usage question,agent_04
+55804f9e,client_024,2025-11-18 12:05:00,open,,general,General support needed,
+9b2891d0,client_009,2025-10-23 17:25:00,open,,onboarding,Migration from previous system,
+a02fea7c,client_001,2025-11-29 21:46:00,resolved,2025-12-02 20:34:00,compliance,Tax withholding concern,agent_03
+e5bb4672,client_010,2025-10-15 01:51:00,resolved,2025-10-18 13:09:04,payment,Payout delayed - 10 days,agent_01
+e12eec1c,client_039,2025-10-06 12:28:00,open,,payment,Question about recent payout,
+1e7ae550,client_050,2025-11-07 07:52:00,pending,,payment,Payout status inquiry,agent_05
+895ccc37,client_050,2025-11-08 04:42:00,open,,onboarding,Training resources for team,agent_01
+e58c4a22,client_036,2025-10-23 20:43:00,resolved,2025-10-26 06:51:15,general,General inquiry,
+1299ffe4,client_043,2025-12-29 13:26:00,pending,,technical,Upload feature broken,agent_05
+f6bdbf55,client_031,2025-12-30 04:51:00,open,,payment,Payout delayed - 20 days,agent_04
+f1ba0397,client_036,2025-11-02 06:21:00,open,,technical,Cannot sync mobile app,agent_02
+15ff2d6d,client_004,2025-12-17 01:55:00,resolved,2025-12-17 21:46:38,payment,Payout status inquiry,
+e98e2abf,client_036,2025-11-12 09:58:00,open,,payment,Question about recent payout,
+3e551901,client_008,2025-11-01 22:38:00,resolved,2025-11-05 14:38:25,compliance,Tax withholding concern,agent_03
+50d6f308,client_025,2025-11-09 08:23:00,resolved,2025-11-12 03:46:03,technical,Unable to access integration sync,
+72167c79,client_021,2025-11-22 01:36:00,open,,general,Account management question,agent_03
+007d7e19,client_036,2025-11-23 09:09:00,pending,,general,How do I add team members?,agent_02
+7b8758d8,client_032,2025-11-13 08:48:00,resolved,2025-11-17 13:31:54,onboarding,Team onboarding support,
+5264cc43,client_030,2025-10-22 04:46:00,resolved,2025-10-25 03:47:37,payment,Issue with payment to contractor,
+25c7c955,client_004,2025-10-10 21:03:00,resolved,2025-10-14 19:35:54,technical,reporting tools giving timeout errors,agent_02
+51066975,client_001,2025-10-08 19:40:00,pending,,payment,Payout status inquiry,
+5197e460,client_043,2025-12-10 13:00:00,open,,technical,Urgent: Production system down,agent_03
+b364779b,client_002,2025-11-25 05:06:00,resolved,2025-11-29 20:14:57,technical,API integration issue,agent_05
+9473f715,client_017,2025-11-20 02:23:00,open,,benefits,Need clarification on benefits,
+dca7b173,client_045,2025-10-11 20:54:00,resolved,2025-10-15 07:05:18,payment,Checking on delayed payout,agent_05
+48fefcee,client_031,2025-10-22 02:31:00,open,,payment,3rd payment delay this month,
+3b8f69d4,client_007,2025-10-30 06:57:00,resolved,2025-11-03 16:42:23,benefits,Need clarification on benefits,agent_01
+6dcc2a45,client_044,2025-12-12 21:02:00,resolved,2025-12-14 04:24:13,general,General account question,
+f7f98981,client_038,2025-11-08 05:36:00,resolved,2025-11-09 19:34:15,technical,Upload feature broken,agent_05
+6c749c84,client_022,2025-12-28 23:05:00,resolved,2025-12-31 17:10:08,technical,Platform error - contractor dashboard not working,agent_01
+5ba6f443,client_022,2025-12-16 12:49:00,resolved,2025-12-18 12:03:55,onboarding,Integration setup help needed,
+634c5b80,client_032,2025-11-18 13:11:00,pending,,payment,3rd payment delay this month,agent_05
+8b925593,client_019,2025-10-11 08:09:00,resolved,2025-10-13 13:11:23,compliance,Compliance verification questions,
+cd99264b,client_021,2025-11-09 14:23:00,open,,technical,Unable to access bulk upload,agent_04
+4d94aea4,client_029,2025-10-14 00:05:00,pending,,onboarding,Questions about getting started,agent_03
+cfa9e0ea,client_025,2025-10-11 23:57:00,pending,,payment,Question about recent payout,agent_02
+7a80b37d,client_044,2025-11-08 08:31:00,open,,technical,Bug report: export feature,agent_03
+5e02e638,client_031,2025-11-01 23:40:00,open,,compliance,Tax form submission issue,agent_01
+3a29b045,client_009,2025-11-12 19:24:00,resolved,2025-11-16 22:14:24,technical,Dashboard showing incorrect data,agent_05
+11c17d30,client_009,2025-12-28 06:30:00,resolved,2025-12-30 04:25:54,technical,Dashboard showing incorrect data,agent_04
+784d3482,client_037,2025-11-20 11:07:00,open,,technical,API integration issue,
+6e0fa264,client_035,2025-10-04 23:29:00,resolved,2025-10-09 17:19:28,payment,Bank transfer still showing pending,agent_01
+94b0f605,client_027,2025-11-02 21:09:00,open,,payment,Bank transfer still showing pending,agent_04
+b1670207,client_039,2025-12-28 13:34:00,pending,,technical,Dashboard showing incorrect data,
+ba24e5ba,client_035,2025-10-14 07:42:00,resolved,2025-10-17 19:29:12,onboarding,Questions about payment processing setup,agent_04
+2361c86a,client_049,2025-10-14 00:06:00,resolved,2025-10-15 16:02:37,technical,System error when trying to sync contractors,agent_05
+e4e8d507,client_015,2025-12-26 18:44:00,open,,technical,Dashboard showing incorrect data,
+750884a9,client_031,2025-10-11 03:53:00,pending,,payment,Urgent: Missing payment from Dec 1,agent_04
+207267ce,client_014,2025-10-13 14:46:00,open,,technical,Dashboard showing incorrect data,agent_01
+a4cb93b3,client_046,2025-12-22 03:43:00,resolved,2025-12-26 06:07:19,payment,Payment flagged for review - need help,agent_02
+2bd90224,client_036,2025-11-29 07:51:00,pending,,payment,Urgent: Missing payment from Nov 3,agent_04
+b250ef26,client_026,2025-10-26 14:37:00,resolved,2025-10-29 01:00:30,payment,Question about recent payout,agent_01
+cc819f27,client_037,2025-10-26 14:07:00,open,,payment,Expected payment hasn't arrived,
+3fb2afca,client_041,2025-11-20 18:07:00,open,,technical,Cannot sync team management,agent_03
+6e23b787,client_040,2025-10-31 09:07:00,open,,payment,Payment flagged for review - need help,agent_04
+7e909d6f,client_027,2025-12-02 20:34:00,pending,,technical,bulk upload giving timeout errors,agent_04
+98183f3d,client_019,2025-11-27 19:03:00,open,,payment,Payout delayed - 18 days,agent_04
+2af6e7f5,client_036,2025-12-27 15:26:00,pending,,technical,Cannot sync integration sync,agent_05
+fbe54b46,client_002,2025-10-05 08:14:00,open,,compliance,Compliance verification questions,
+49f7c64c,client_037,2025-10-15 18:07:00,pending,,compliance,Documentation for Canada contractors,agent_01
+7223a42c,client_049,2025-11-24 03:47:00,pending,,compliance,Verification documents not accepted,agent_01
+a36aa265,client_029,2025-10-12 14:55:00,resolved,2025-10-17 14:15:50,payment,Question about recent payout,agent_05
+267435bd,client_045,2025-12-20 13:10:00,resolved,2025-12-23 19:42:39,technical,API integration issue,
+a578fc66,client_037,2025-10-22 10:45:00,pending,,technical,Mobile app crashing on API access,
+d5d5b13b,client_033,2025-10-13 04:48:00,resolved,2025-10-17 05:39:16,general,Account settings question,
+6c84da40,client_009,2025-10-19 22:20:00,open,,compliance,Verification documents not accepted,
+3bb66a50,client_026,2025-11-04 20:26:00,pending,,technical,Unable to access contractor dashboard,agent_03
+a0597d59,client_045,2025-12-02 10:37:00,open,,general,Platform usage question,
+629e43dc,client_006,2025-11-15 02:50:00,resolved,2025-11-18 00:33:04,technical,Upload feature broken,
+842c98d3,client_032,2025-11-13 17:36:00,resolved,2025-11-14 19:42:15,payment,Bank transfer still showing pending,agent_01
+bbed4c3e,client_003,2025-10-21 14:29:00,open,,technical,Upload feature broken,agent_02
+1aedea95,client_042,2025-11-05 02:41:00,resolved,2025-11-07 05:36:37,technical,bulk upload giving timeout errors,agent_03
+63c0acf7,client_047,2025-12-23 02:45:00,open,,onboarding,Onboarding assistance needed,agent_02
+ba2c60a3,client_038,2025-12-29 10:52:00,open,,technical,Upload feature broken,
+956afd44,client_031,2025-10-14 03:20:00,open,,payment,Wire transfer not received,agent_02
+72eb9adc,client_042,2025-12-07 18:00:00,open,,general,Feature request: integration sync,agent_02
+5beb4ca3,client_041,2025-12-18 21:28:00,resolved,2025-12-23 06:20:33,compliance,W-9/W-8 form issues,agent_01
+edde8669,client_038,2025-10-18 07:17:00,pending,,technical,API integration issue,agent_05
+6c6ce4bb,client_047,2025-12-28 00:54:00,resolved,2026-01-01 08:23:00,onboarding,Onboarding assistance needed,agent_05
+c4d2453f,client_013,2025-10-07 07:31:00,open,,compliance,Tax withholding concern,agent_05
+c079e189,client_005,2025-11-16 10:08:00,resolved,2025-11-18 15:54:42,technical,Upload feature broken,agent_02
+6613bb43,client_049,2025-10-10 00:37:00,resolved,2025-10-10 19:54:36,technical,Platform error - payment processing not working,
+2882cbda,client_026,2025-12-04 13:27:00,resolved,2025-12-08 05:14:43,technical,System error when trying to sync contractors,agent_03
+aa2733f1,client_006,2025-10-20 17:20:00,resolved,2025-10-22 23:31:56,payment,4th payment delay this month,agent_03
+c5adc174,client_045,2025-10-31 01:15:00,resolved,2025-10-31 22:33:39,technical,Cannot sync team management,agent_03
+8863ed49,client_043,2025-10-16 00:45:00,resolved,2025-10-17 03:34:07,compliance,Regulatory requirement assistance,
+651c1ad0,client_034,2025-11-03 05:23:00,resolved,2025-11-04 07:05:30,technical,Technical problem with contractor dashboard,
+b28abcb6,client_002,2025-12-07 02:16:00,pending,,technical,Mobile app crashing on contractor dashboard,agent_05
+491762d0,client_024,2025-10-22 11:10:00,resolved,2025-10-24 02:43:09,payment,Payout status inquiry,agent_01
+1edb429a,client_015,2025-10-02 07:02:00,open,,compliance,International compliance inquiry,
+b2f87efb,client_012,2025-12-10 22:47:00,resolved,2025-12-14 09:35:57,general,How do I add team members?,
+98a98461,client_021,2025-11-17 03:32:00,open,,payment,Payout delayed - 8 days,agent_05
+8b30e427,client_003,2025-11-06 09:20:00,pending,,payment,Expected payment hasn't arrived,agent_02
+f526eb05,client_019,2025-12-19 07:29:00,open,,onboarding,Account setup guidance,
+e4d1874d,client_050,2025-11-01 04:00:00,resolved,2025-11-05 20:41:56,payment,Issue with payment to contractor,agent_01
+164cb8bd,client_022,2025-11-09 03:13:00,resolved,2025-11-12 00:26:11,payment,Expected payment hasn't arrived,
+09b03c3a,client_010,2025-10-30 16:26:00,open,,compliance,1099 form question,agent_01
+c583419a,client_038,2025-11-20 02:37:00,resolved,2025-11-23 03:56:28,payment,Urgent: Missing payment from Nov 12,agent_03
+77aabb21,client_026,2025-11-10 14:17:00,resolved,2025-11-12 03:30:48,compliance,Compliance verification questions,
+3ce43c7d,client_038,2025-11-29 10:26:00,open,,payment,Payment processing issue - Order #37215,agent_04
+75ed7648,client_017,2025-12-27 09:52:00,open,,benefits,Enrollment deadline approaching - help needed,agent_03
+5212ec1d,client_010,2025-11-15 12:32:00,open,,payment,Wire transfer not received,agent_02
+38800064,client_002,2025-12-11 23:35:00,resolved,2025-12-13 14:34:02,general,Platform usage question,
+710d43e0,client_008,2025-10-29 04:12:00,resolved,2025-11-02 09:09:24,payment,4th payment delay this month,agent_05
+bd152015,client_017,2025-10-09 06:57:00,open,,general,Platform usage question,agent_03
+9fa1f42d,client_008,2025-10-22 18:27:00,pending,,payment,Checking on delayed payout,agent_04
+c74be23e,client_044,2025-10-24 08:17:00,open,,technical,Bug report: payment processing,
+18966d30,client_040,2025-12-10 15:03:00,pending,,technical,Upload feature broken,agent_02
+0a45cd97,client_042,2025-12-20 17:50:00,pending,,benefits,Benefits package inquiry,
+a765a266,client_023,2025-11-14 18:32:00,resolved,2025-11-16 17:15:59,technical,Platform error - mobile app not working,agent_01
+2ebfda74,client_050,2025-11-30 16:22:00,resolved,2025-12-04 15:11:08,payment,Urgent: Missing payment from Oct 22,agent_02
+49c3e7a5,client_018,2025-10-08 07:36:00,resolved,2025-10-12 15:01:21,technical,Dashboard showing incorrect data,
+468b00b0,client_012,2025-12-29 11:58:00,pending,,payment,Payment flagged for review - need help,
+c22d4d89,client_037,2025-12-03 17:19:00,resolved,2025-12-05 00:16:36,payment,Payout delayed - 10 days,agent_01
+418d8e81,client_034,2025-12-18 06:51:00,open,,technical,Urgent: Production system down,agent_03
+f6da7de4,client_004,2025-10-19 03:54:00,pending,,payment,Payment processing issue - Order #19506,agent_04
+d3750bee,client_038,2025-10-21 23:27:00,open,,technical,Cannot sync mobile app,agent_05
+98703246,client_045,2025-11-15 07:42:00,resolved,2025-11-18 11:18:23,benefits,Benefits eligibility question,
+7025ade9,client_019,2025-12-29 18:25:00,resolved,2026-01-03 02:17:54,payment,Payout status inquiry,agent_05
+e728ae0f,client_021,2025-10-29 20:36:00,resolved,2025-10-30 19:50:38,general,General inquiry,
+e7d3b997,client_016,2025-10-12 22:42:00,open,,technical,Dashboard showing incorrect data,agent_03
+a54fe97b,client_014,2025-11-02 03:46:00,open,,payment,Checking on delayed payout,agent_04
+4d80c012,client_011,2025-11-18 11:34:00,pending,,benefits,Need clarification on benefits,
+aa5d73ff,client_037,2025-10-10 01:18:00,open,,onboarding,Initial setup questions,
+c0452503,client_005,2025-10-21 23:04:00,resolved,2025-10-24 22:08:51,technical,Unable to access mobile app,agent_05
+313ec72b,client_031,2025-12-23 05:38:00,pending,,compliance,Compliance verification questions,agent_03
+7ace02e4,client_014,2025-12-10 23:59:00,pending,,general,Account settings question,agent_03
+1a23a167,client_016,2025-12-02 04:03:00,pending,,technical,Upload feature broken,agent_05
+84bc1a63,client_031,2025-10-22 20:18:00,open,,payment,Expected payment hasn't arrived,
+b583c1f1,client_020,2025-12-24 08:05:00,pending,,compliance,International compliance inquiry,agent_04
+00795930,client_024,2025-11-26 14:16:00,open,,payment,Wire transfer not received,
+361619fd,client_010,2025-10-11 21:22:00,resolved,2025-10-16 00:39:00,compliance,Verification documents not accepted,agent_05
+2ed82500,client_004,2025-11-23 17:43:00,resolved,2025-11-28 03:20:28,benefits,Understanding benefit options,agent_01
+d2cec6ed,client_026,2025-12-04 18:57:00,resolved,2025-12-07 14:45:58,general,Information request,agent_04
+1fb3a857,client_012,2025-10-28 06:08:00,open,,general,Platform feedback,
+20f9c7d9,client_028,2025-10-19 19:16:00,resolved,2025-10-21 17:47:58,payment,Bank transfer still showing pending,agent_04
+0147f798,client_036,2025-11-05 16:29:00,open,,technical,Platform error - team management not working,
+64d24278,client_027,2025-12-15 18:48:00,open,,payment,Payment still pending: $500,
+6df8b787,client_007,2025-11-14 13:16:00,resolved,2025-11-16 18:38:07,compliance,Tax form submission issue,agent_02
+d1d63ae2,client_018,2025-12-27 22:25:00,resolved,2025-12-28 14:36:18,technical,Dashboard showing incorrect data,agent_01
+b994691b,client_048,2025-10-03 10:52:00,resolved,2025-10-07 12:34:51,technical,Cannot sync contractor dashboard,
+d6aa1025,client_015,2025-11-26 10:17:00,resolved,2025-11-30 04:59:37,payment,Payment still pending: $1000,agent_04
+41673eeb,client_048,2025-12-05 05:04:00,resolved,2025-12-07 02:40:04,technical,Bug report: automated workflows,
+400c0465,client_002,2025-10-26 01:15:00,resolved,2025-10-26 16:49:18,payment,Payment processing issue - Order #36097,agent_04
+2d07d149,client_033,2025-12-27 00:15:00,resolved,2025-12-29 04:28:35,technical,Bug report: integration sync,agent_03
+590b6adc,client_023,2025-12-28 02:18:00,resolved,2025-12-28 17:15:52,payment,Payout status inquiry,
+e73f412f,client_014,2025-12-26 06:17:00,resolved,2025-12-29 16:39:17,benefits,Benefits activation issue,
+705bfe83,client_044,2025-12-22 05:38:00,resolved,2025-12-26 08:07:36,payment,Payout status inquiry,
+848ee264,client_020,2025-11-05 13:57:00,resolved,2025-11-07 18:36:33,compliance,Legal documentation needed,agent_03
+c5b054be,client_044,2025-12-14 03:00:00,resolved,2025-12-16 22:14:36,technical,Dashboard showing incorrect data,agent_05
+02b0a0cd,client_039,2025-11-13 08:40:00,pending,,payment,Wire transfer not received,agent_03
+7aac42d8,client_013,2025-10-08 19:25:00,resolved,2025-10-12 06:45:14,payment,Payment flagged for review - need help,agent_04
+348b3e27,client_019,2025-11-19 23:02:00,pending,,payment,Payout status inquiry,
+64fa0978,client_022,2025-12-08 20:50:00,open,,compliance,Compliance status unclear,agent_03
+46671cff,client_011,2025-10-24 09:06:00,resolved,2025-10-26 23:56:39,benefits,Coverage details for life insurance,
+d848ff70,client_012,2025-12-23 02:14:00,resolved,2025-12-25 04:36:14,general,Account settings question,agent_03
+695e0b99,client_024,2025-10-16 15:03:00,open,,payment,Payout status inquiry,
+71c99804,client_040,2025-12-27 12:33:00,pending,,payment,Payout delayed - 7 days,agent_02
+f0c4cdb3,client_022,2025-11-28 04:20:00,pending,,technical,Bug report: contractor dashboard,agent_02
+8707ab59,client_021,2025-11-05 06:48:00,open,,onboarding,Questions about bulk upload setup,agent_01
+9d1a9e4b,client_009,2025-11-21 13:30:00,resolved,2025-11-23 18:53:53,onboarding,Onboarding assistance needed,
+b8f8d31d,client_001,2025-12-07 06:01:00,resolved,2025-12-10 19:06:19,benefits,Understanding benefit options,agent_03
+01c62f0e,client_020,2025-12-15 09:10:00,open,,payment,Payout delayed - 12 days,
+23189e16,client_030,2025-11-13 13:56:00,pending,,compliance,Compliance verification questions,agent_04
+e33d0958,client_023,2025-11-21 00:14:00,open,,compliance,Compliance verification questions,agent_01
+e3c140ec,client_038,2025-12-23 01:24:00,open,,payment,Wire transfer not received,
+a063b1b5,client_040,2025-12-23 00:03:00,resolved,2025-12-26 14:32:34,payment,Checking on delayed payout,agent_03
+99b68f3d,client_031,2025-12-27 20:00:00,open,,compliance,Compliance status unclear,agent_05
